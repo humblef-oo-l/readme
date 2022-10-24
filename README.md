@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vladamir-putin
+- 👋 Hi, I’m @humblef-oo-l
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning for DSA
 - 💞️ I’m looking to collaborate on Open SOurce
